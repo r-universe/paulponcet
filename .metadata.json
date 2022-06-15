@@ -1,0 +1,34 @@
+[
+  {
+    "package": "bazar",
+    "oncran": true
+  },
+  {
+    "package": "flifo",
+    "oncran": true
+  },
+  {
+    "package": "metsyn",
+    "oncran": true
+  },
+  {
+    "package": "modeest",
+    "oncran": true
+  },
+  {
+    "package": "observer",
+    "oncran": true
+  },
+  {
+    "package": "statip",
+    "oncran": true
+  },
+  {
+    "package": "strip",
+    "oncran": true
+  },
+  {
+    "package": "tribe",
+    "oncran": true
+  }
+]
