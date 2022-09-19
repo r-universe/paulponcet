@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "metsyn",
-    "oncran": true
-  },
-  {
     "package": "modeest",
     "oncran": true
   },
