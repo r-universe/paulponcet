@@ -1,22 +1,18 @@
 [
   {
-    "package": "bazar",
-    "oncran": true
-  },
-  {
-    "package": "flifo",
-    "oncran": true
-  },
-  {
     "package": "metsyn",
     "oncran": true
   },
   {
-    "package": "modeest",
+    "package": "bazar",
     "oncran": true
   },
   {
     "package": "observer",
+    "oncran": true
+  },
+  {
+    "package": "tribe",
     "oncran": true
   },
   {
@@ -28,7 +24,11 @@
     "oncran": true
   },
   {
-    "package": "tribe",
+    "package": "modeest",
+    "oncran": true
+  },
+  {
+    "package": "flifo",
     "oncran": true
   }
 ]
