@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bazar"]
 	path = bazar
 	url = https://github.com/paulponcet/bazar
-	shallow = true
-	registered = true
 [submodule "flifo"]
 	path = flifo
 	url = https://github.com/paulponcet/flifo
-	shallow = true
-	registered = true
 [submodule "metsyn"]
 	path = metsyn
 	url = https://github.com/paulponcet/metsyn
-	shallow = true
-	registered = true
 [submodule "modeest"]
 	path = modeest
 	url = https://github.com/paulponcet/modeest
-	shallow = true
-	registered = true
 [submodule "observer"]
 	path = observer
 	url = https://github.com/paulponcet/observer
-	shallow = true
-	registered = true
 [submodule "statip"]
 	path = statip
 	url = https://github.com/paulponcet/statip
-	shallow = true
-	registered = true
 [submodule "strip"]
 	path = strip
 	url = https://github.com/paulponcet/strip
-	shallow = true
-	registered = true
 [submodule "tribe"]
 	path = tribe
 	url = https://github.com/paulponcet/tribe
-	shallow = true
-	registered = true
