@@ -23,6 +23,3 @@
 [submodule "strip"]
 	path = strip
 	url = https://github.com/paulponcet/strip
-[submodule "tribe"]
-	path = tribe
-	url = https://github.com/paulponcet/tribe
