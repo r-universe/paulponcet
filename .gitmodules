@@ -14,9 +14,6 @@
 [submodule "modeest"]
 	path = modeest
 	url = https://github.com/paulponcet/modeest
-[submodule "observer"]
-	path = observer
-	url = https://github.com/paulponcet/observer
 [submodule "statip"]
 	path = statip
 	url = https://github.com/paulponcet/statip
